@@ -13,13 +13,11 @@ xpk file parser. :joy:
 ```
 ./xpk_parse_release output.xpk .
 ``` 
-
+<img width="744" height="158" alt="image" src="https://github.com/user-attachments/assets/18fefaaa-09bb-4c19-a7c2-1d54c63875fb" />
 ---
 ## how to decompile luajit
 
 https://github.com/marsinator358/luajit-decompiler-v2/tree/master
-
-<img width="744" height="158" alt="image" src="https://github.com/user-attachments/assets/18fefaaa-09bb-4c19-a7c2-1d54c63875fb" />
 
 
 ---
