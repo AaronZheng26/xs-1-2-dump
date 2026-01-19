@@ -31,4 +31,4 @@ linux_x86_64 (ubuntu)
 ## xpk version
 - [x] 1.0
 - [x] 2.0
-- [ ] 3.0 (need resume the thread and fix opcode.)
+- [x] 3.0 (finished, but would't update)
